@@ -1,0 +1,10 @@
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Debug\netcoreapp2.1\AWSChatBot.deps.json
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Debug\netcoreapp2.1\AWSChatBot.runtimeconfig.json
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Debug\netcoreapp2.1\AWSChatBot.runtimeconfig.dev.json
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Debug\netcoreapp2.1\AWSChatBot.dll
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Debug\netcoreapp2.1\AWSChatBot.pdb
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Debug\netcoreapp2.1\AWSChatBot.csprojAssemblyReference.cache
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Debug\netcoreapp2.1\AWSChatBot.AssemblyInfoInputs.cache
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Debug\netcoreapp2.1\AWSChatBot.AssemblyInfo.cs
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Debug\netcoreapp2.1\AWSChatBot.dll
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Debug\netcoreapp2.1\AWSChatBot.pdb

@@ -1,0 +1,10 @@
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.deps.json
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.runtimeconfig.json
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.runtimeconfig.dev.json
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.dll
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.pdb
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.csprojAssemblyReference.cache
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.AssemblyInfoInputs.cache
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.AssemblyInfo.cs
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.dll
+C:\Users\raahu\OneDrive\Desktop\AWSChatBot\AWSChatBot\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSChatBot.pdb
